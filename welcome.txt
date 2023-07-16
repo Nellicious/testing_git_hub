@@ -1,1 +1,9 @@
 welcome to devops class
+trying to test fetch command
+ls-lart
+grep
+sleep
+cd
+pwd
+getent passwd
+whoami
