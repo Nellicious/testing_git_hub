@@ -7,3 +7,6 @@ cd
 pwd
 getent passwd
 whoami
+merge1
+merge2
+merge3
