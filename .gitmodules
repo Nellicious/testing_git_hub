@@ -1,0 +1,3 @@
+[submodule "javasample"]
+	path = javasample
+	url = https://github.com/Nellicious/javasample.git
