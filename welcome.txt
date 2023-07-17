@@ -1,4 +1,9 @@
 welcome to devops class
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> b063d08 (ending rebase branch)
 trying to test fetch command
 ls-lart
 grep
@@ -9,4 +14,9 @@ getent passwd
 whoami
 merge1
 merge2
+<<<<<<< HEAD
 merge3
+=======
+merge3
+>>>>>>> 82a8507 (merge testing)
+>>>>>>> b063d08 (ending rebase branch)

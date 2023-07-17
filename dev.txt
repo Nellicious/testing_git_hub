@@ -1,5 +1,14 @@
 dev related changes
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> b063d08 (ending rebase branch)
 dev changes ongoing
 so to test functionality
 merge testing
 merge functionality
+<<<<<<< HEAD
+=======
+>>>>>>> 82a8507 (merge testing)
+>>>>>>> b063d08 (ending rebase branch)
